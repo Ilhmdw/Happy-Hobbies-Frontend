@@ -5,7 +5,72 @@ Happy Hobbies adalah aplikasi e-commerce berbasis Laravel yang berfokus pada pen
 Aplikasi ini menyediakan dua sisi utama, yaitu Customer Panel untuk pelanggan dan Admin Panel untuk pengelolaan toko, produk, kategori, pesanan, serta monitoring kinerja PIC.
 
 ---
+## ✨ Fitur Utama
 
+
+### Customer Features
+
+
+* Registrasi dan Login
+
+* Browsing Katalog Produk
+
+* Detail Produk dan Varian
+
+* Keranjang Belanja
+
+* Checkout Pesanan
+
+* Manajemen Profil
+
+* Manajemen Alamat Pengiriman
+
+* Riwayat Pesanan
+
+* Tracking Status Pesanan
+
+
+### Admin Features
+
+* Dashboard Monitoring
+
+* Kelola Produk
+
+* Tambah Produk Manual
+
+* Bulk Upload Produk via Excel
+
+* Edit Produk
+
+* Kelola Kategori
+
+* Kelola Pesanan
+
+* Manajemen PIC
+
+* Pengaturan Toko
+
+* Monitoring Stok Produk
+
+---
+
+## 🛠️ Tech Stack
+
+* Laravel
+
+* PHP 8+
+
+* MySQL
+
+* Blade Template Engine
+
+* Bootstrap
+
+* Vite
+
+* JavaScript
+
+---
 # 📸 Screenshots
 
 ## Customer Side
