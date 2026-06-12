@@ -28,9 +28,9 @@
         <div class="flex items-center h-14 gap-3">
             {{-- Logo --}}
             <a href="{{ route('home') }}" class="flex items-center gap-2 flex-shrink-0">
-                <div class="w-7 h-7 bg-brand-yellow rounded-lg flex items-center justify-center">
-                    <span class="font-heading font-black text-brand-dark text-xs">HH</span>
-                </div>
+                <img src="{{ asset('images/happyHobbiesLOGO.png') }}"
+                     alt="Happy Hobbies Logo"
+                     class="h-8 w-8 object-cover rounded-full">
                 <span class="font-heading font-extrabold text-brand-dark text-base">
                     <span class="text-brand-orange">Happy</span>Hobbies
                 </span>
